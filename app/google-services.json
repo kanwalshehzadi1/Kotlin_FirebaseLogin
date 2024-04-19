@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "946641734289",
+    "project_id": "kotlin-fbase-project",
+    "storage_bucket": "kotlin-fbase-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946641734289:android:3740683991b73679bc8d30",
+        "android_client_info": {
+          "package_name": "com.example.kotlinfirebaselogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUSJ_PUiAbHovCPeBNEjDKVUi7xzwehjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
